@@ -52,5 +52,5 @@ BSc(Information technology )
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Data-science-PROJECTS.git
+   git clone https://github.com/kumarpranav0610-prog/Data-science-PROJECTS.git
    
