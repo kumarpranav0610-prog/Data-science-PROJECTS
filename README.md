@@ -44,10 +44,13 @@ To derive actionable insights from cricket data, identify patterns in player per
 - Strike rate & boundary percentage trends
 - Comparative analysis across seasons/players
 
----
+DONE BY 
+PRANAV
+BSc(Information technology )
 
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Data-science-PROJECTS.git
+   
